@@ -99,3 +99,6 @@ celery -A banking_system beat -l info
     admin email - admin@admin.com
 
     admin password - admin123
+
+## You Can Run This Directly 
+    https://aloktechqwa-bankingsyst-4qhspez9bn3.ws-us73.gitpod.io/
